@@ -1,3 +1,3 @@
 # Data-Structures
 
-A collection of data structures made in Java or C++
+A collection of data structures made by me in Java or C++
